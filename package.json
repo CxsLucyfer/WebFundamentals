@@ -34,7 +34,7 @@
     "commander": "^2.19.0",
     "del": "^2.2.2",
     "fs-extra": "^4.0.1",
-    "github": "^8.1.1",
+    "github": "^14.0.0",
     "glob": "^7.1.2",
     "globule": "^1.0.0",
     "googleapis": "^31.0.2",
