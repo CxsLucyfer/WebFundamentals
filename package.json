@@ -38,7 +38,7 @@
     "glob": "^7.1.2",
     "globule": "^1.0.0",
     "googleapis": "^31.0.2",
-    "gulp": "^3.9.1",
+    "gulp": "^5.0.0",
     "gulp-cli": "^2.3.0",
     "gulp-rename": "^1.2.2",
     "gulp-util": "^3.0.7",
